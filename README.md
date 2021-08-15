@@ -1,2 +1,2 @@
-# Starfall-Catch-the-Stars-FINAL-
-Catch the falling stars and avoid the meteors.
+# p5.play-boilerplate
+Boiler plate for p5.play
